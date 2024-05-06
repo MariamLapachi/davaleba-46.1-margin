@@ -1,0 +1,14 @@
+.box {
+    width: 320px;
+    height: 138px;
+    border: 1px solid #b4b4b4;
+    margin-left: 109px;
+    margin-top: 73px;
+    padding: 20px,10px;
+}
+.text {
+    color: #808080;
+}
+h5 {
+    margin-top: 0px;
+}
